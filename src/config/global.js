@@ -167,7 +167,7 @@ export default {
   referencias: [
     {
       referencia: 'Abolafio, M. (s.f.). Qué es un mapa de procesos.',
-      link: 'https://blog.edenred.es/que-es-mapa-de-procesos/',
+      link: 'https://www.edenred.es/blog/que-es-mapa-de-procesos/',
     },
     {
       referencia:
